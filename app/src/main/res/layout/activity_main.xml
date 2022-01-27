@@ -35,6 +35,6 @@
         android:textColor="#EF0F0F"
         android:textSize="17sp"
         android:visibility="gone"
-        android:text="Faqat Uzcard kiritng"/>
+        android:text="Faqat Uzcard raqamini kiritng"/>
 
 </LinearLayout>
